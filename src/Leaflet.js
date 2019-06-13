@@ -24,4 +24,4 @@ export * from './layer/index';
 export * from './map/index';
 
 import {freeze} from './core/Util';
-Object.freeze = freeze;
+Object.freeze = freeze;;
